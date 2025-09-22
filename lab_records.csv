@@ -1,0 +1,137 @@
+LIMSID,LABID,NAME,AGE,SEX,COUNTY,MARITAL_STATUS,PARITY,HIV_STATUS,HPV_STATUS,OTHER
+3146,OR25-3048,Everline Aluoch Chongo,35,F,Nairobi,Widow,5+0,Positive,18,No notes
+3149,OR25-3051,Lilian Akinyi Owino,37,F,Nairobi,Maried,2+0,positive,A,No notes
+3148,OR25-3050,Eddah Muthoni,35,F,Nairobi,Maried,2+0,positive,B,No notes
+3152,OR25-3049,Sophie Atieno,37,F,Nairobi,Married,2+0,positive,A,No notes
+3168,OR25-3054,Catherine Mwikali,38,F,Machakos,Married,3+0,Negative,,No notes
+3239,OR25-3135,Rose K Omwando,36,F,Kisii,Married,2+0,Negative,18,No notes
+3167,OR25-3519,Caroline Kaleli,41,F,Machakos,Married,3+0,Negative,,No notes
+3060,OR25-3519,Mary Mbatha Mutua,46,F,Machakos,Married,2+0,Negative,45,No notes
+3190,OR25-3519,Ruth Nthenya,37,F,Machakos,single,3+0,,,No notes
+3191,OR25-3519,Elizabeth Mwikali,36,F,Machakos,Single,2+0,Negative,,No notes
+3164,OR25-3519,Caroline Mwikali,32,F,Machakos,Married,3+0,Negative,45,No notes
+3566,OR25-3519,Grace Wanjiku,38,F,Nairobi,Married,2+0,Negative,A,Consent
+3567,OR25-3519,Margaret Anyango,61,F,Nairobi,Married,2+0,Positive,B,Consent
+3569,OR25-3519,Selina Moraa,51,F,Nairobi,Married,2+0,Positive,B,Consent
+3586,OR25-3488,Sara Wangare,53,F,Nairobi,Married,2+0,Positive,A,ccc
+3464,OR25-3519,Miceline Furaha Kitamuliko,38,F,Nairobi,Married,1+0,Positive,,ccc
+3467,OR25-3519,Josephine Wambui,53,F,Nairobi,Married,,Positive,A,ccc
+3571,OR25-3473,Mercy Kiarie,57,F,Nairobi,Married,,Positive,A,ccc
+3587,OR25-3489,Miriam Kanini,44,F,Nairobi,Married,,Positive,16,ccc
+3589,OR25-3491,Eather Oyani,58,F,Nairobi,Married,,Positive,"18,A",ccc
+3595,OR25-3517,Jeniffer Musheshi,60,F,Nairobi,Married,1+0,Positive,B,No notes
+3530,OR25-3519,Emily Mbaika,40,F,Nairobi,Married,,Positive,45,No notes
+3135,OR25-3519,Rosinah Nthenya,47,F,Machakos,Married,,Negative,,Consent
+3058,OR25-2955,Florence Kitua,47,F,Machakos,Single,,Negative,B,Consent
+3061,OR25-2958,Anastatcia Muthui,46,F,Machakos,Married,0,Negative,B,Consent
+3143,OR25-3020,Annah Ndinda,43,F,Machakos,Married,,Negative,18,Consent
+3081,OR25-3519,Elizabeth Njoki Njiru,36,F,Machakos,Married,,Negative,A,
+3101,OR25-3519,Morrin Wanza,41,F,Machakos,Married,,Negative,A,
+3096,OR25-3519,Eather Mutiso,47,F,Machakos,Married,,Negative,"A,B",
+3094,OR25-3519,Catherine Ndanu,31,F,Machakos,Married,,Negative,"A,B",
+3093,OR25-3519,Rose Mueni,47,F,Machakos,Married,,Negative,A,
+3477,OR25-3519,Catherine Wanja,40,F,Meru,Married,2+0,Unknown,,Consent
+3485,OR25-3519,Fridah Gatwiri Mwiti,38,F,Meru,Single,3+0,Unknown,,Consent
+3489,OR25-3519,Christine Kawira Stanley,30,F,Meru,Single,4+0,Unknown,,Consent
+3456,OR25-3519,Siti Bakari Siwa,32,F,Mombasa,Married,,Negative,,Consent
+3518,OR25-3519,Peninah Kinya Jane,35,F,Meru,Married,2+0,Unknown,,
+3515,OR25-3519,Everline Makewa Baraka,30,F,Meru,Married,2+0,Unknown,,
+3577,OR25-3519,Mary Kasyoka,55,F,Nairobi,Married,,Positive,,Consent
+3578,OR25-3519,Josephine Mueni,48,F,Nairobi,Married,,Positive,,Consent
+3582,OR25-3519,Jackline Luvungha,46,F,Nairobi,Married,,Positive,,Consent
+3612,OR25-3519,Linet Akinyi,32,F,Nairobi,,,Positive,,
+3610,OR25-3519,Leah Wanjala,37,F,Nairobi,Widow,1+0,Positive,,Consent
+3226,OR25-3519,Eunice Malinda,49,F,Machakos,Widow,2+0,Negative,,Consent
+3291,OR25-3519,Benard Galhai,32,F,Marsabit,,0,Unkown,,Consent
+3297,OR25-3519,Ndupayo Lukhumulhau,41,F,Marsabit,,0,Unkown,,Consent
+3279,OR25-3519,Nasaru Alyaro,35,F,Marsabit,Married,0,Unkown,,Consent
+3278,OR25-3519,Susan Lenganap,46,F,Marsabit,Married,0,Unkown,,Consent
+3243,OR25-3519,Josphine Nyabonyi Omweri,44,F,Kisii,Married,0,Negative,,Consent
+3242,OR25-3519,Emily Nyagwansa,49,F,Kisii,Married,0,Negative,,Consent
+3258,OR25-3519,Isabellah Onyancha,49,F,Kisii,Married,0,Negative,,Consent
+3252,OR25-3519,Beatrice Gesare Mogusu,49,F,Kisii,Married,0,Negative,,Consent
+3248,OR25-3519,Ann Moraa Misati,49,F,Kisii,Single,0,Unknown,,Consent
+3211,OR25-3519,Salome Mueni,42,F,Machakos,Single,3+0,Unknown,,Consent
+3217,OR25-3519,Damaris Nduku,30,F,Machakos,Married,1+0,Negative,,Consent
+3220,OR25-3519,Esther Wanjiku,32,F,Machakos,Single,0+0,Negative,,Consent
+3235,OR25-3519,Varelia Nyaboke Otwoma,30,F,Kisii,Married,0,Negative,,Consent
+3154,OR25-3519,Monicah Ndindi,42,F,Machakos,Married,0,Positive,,Consent
+3155,OR25-3519,Rosaline Wambui,54,F,Nairobi,Married,0,Positive,,Consent
+3147,OR25-3519,Lilian Akinyi Owino,37,F,Nairobi,,0,Positive,,Consent
+3308,OR25-3519,Ruth Wanjira Karanja,43,F,Kiambu,,0,positive,,Consent
+3309,OR25-3519,Esther Wangeci Wainaina,54,F,Kiambu,,0,positive,,Consent
+3312,OR25-3519,Jane Wacuka Kiwii,53,F,Kiambu,,0,positive,,Consent
+3318,OR25-3519,Mary Wangui Njuguna,39,F,Kiambu,,0,positive,,Consent
+3320,OR25-3519,Hannah Mumbi Gahukia,54,F,Kiambu,,0,positive,,Consent
+3324,OR25-3519,Teresia Njoki Ichangi,35,F,Kiambu,,0,positive,,Consent
+3326,OR25-3519,Stella Njeri Wainaina,45,F,Kiambu,,0,positive,,Consent
+3332,OR25-3519,Eunice Kamuli Nkendo,50,F,Kiambu,,0,positive,,Consent
+3337,OR25-3519,Philis Mwikali Mbatha,47,F,,,0,positive,,Consent
+3329,OR25-3519,Grace Kariuki,39,F,,,0,positive,,Consent
+3371,OR25-3519,Mercy Kiarie,57,F,Nairobi,,0,positive,,Consent
+2968,OR25-3519,,,,,,,,,
+2976,OR25-3519,,,,,,,,,
+2982,OR25-3519,,,,,,,,,
+2957,OR25-3519,,,,,,,,,
+3526,OR25-3519,,,,,,,,,
+3527,OR25-3519,,,,,,,,,
+3532,OR25-3519,,,,,,,,,
+3529,OR25-3519,,,,,,,,,
+3544,OR25-3519,,,,,,,,,
+3537,OR25-3519,,,,,,,,,
+3539,OR25-3519,,,,,,,,,
+3541,OR25-3519,,,,,,,,,
+3549,OR25-3519,,,,,,,,,
+3556,OR25-3519,,,,,,,,,
+3559,OR25-3519,,,,,,,,,
+3025,OR25-2922,Rose Kathure,37,F,Marsabit,,,,,
+3023,OR25-3519,,,,,,,,,
+2995,OR25-3519,,,,,,,,,
+3038,OR25-2935,Mary Wanjara,31,F,Machakos,Married,0,Negative,A,
+3030,OR25-2927,Kame Godana,49,F,Marsabit,Married,5+0,Negative,16,
+2953,OR25-3519,,,,,,,,,
+3029,OR25-2926,Tume Boru,45,F,Marsabit,Married,3+2,Negative,A,
+3028,OR25-2925,Amina Garaba,39,F,Marsabit,Married,5+0,Negative,16,
+2972,OR25-3519,,,,,,,,,
+2970,OR25-3519,,,,,,,,,
+2969,OR25-3519,,,,,,,,,
+2978,OR25-3519,,,,,,,,,
+2956,OR25-3519,,,,,,,,,
+2981,OR25-3519,,,,,,,,,
+2974,OR25-3519,,,,,,,,,
+2985,OR25-3519,,,,,,,,,
+2983,OR25-3519,,,,,,,,,
+2977,OR25-3519,,,,,,,,,
+3383,OR25-3519,,,,,,,,,
+3387,OR25-3519,,,,,,,,,
+3625,OR25-3519,,,,,,,,,
+3260,OR25-3519,,,,,,,,,
+3280,OR25-3519,,,,,,,,,
+3511,OR25-3519,,,,,,,,,
+3503,OR25-3519,,,,,,,,,
+3402,OR25-3519,,,,,,,,,
+3066,OR25-3519,,,,,,,,,
+3059,OR25-2956,Regina Mwongeli,43,F,Machakos,Married,0,Negative,B,
+2928,OR25-3519,,,,,,,,,
+2929,OR25-3519,,,,,,,,,
+2949,OR25-3519,,,,,,,,,
+2945,OR25-3519,,,,,,,,,
+2930,OR25-3519,,,,,,,,,
+3076,OR25-3519,,,,,,,,,
+3619,OR25-3519,,,,,,,,,
+3415,OR25-3519,,,,,,,,,
+3425,OR25-3519,,,,,,,,,
+3374,OR25-3519,,,,,,,,,
+3601,OR25-3519,,,,,,,,,
+3602,OR25-3519,,,,,,,,,
+3604,OR25-3519,,,,,,,,,
+3606,OR25-3519,,,,,,,,,
+3607,OR25-3519,,,,,,,,,
+3341,OR25-3519,,,,,,,,,
+3340,OR25-3519,,,,,,,,,
+3198,OR25-3519,,,,,,,,,
+3180,OR25-3519,,,,,,,,,
+3184,OR25-3519,,,,,,,,,
+3187,OR25-3519,,,,,,,,,
+3170,OR25-3519,,,,,,,,,
+3350,OR25-3519,,,,,,,,,
